@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rajdhany</string>
+    <string name="action_settings">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Rajdhany Tv</string>
+    <string name="nav_item_friends">Rajdhany F.M</string>
+    <string name="nav_item_notifications">Daily Rajdhany</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_tv">Rajdhany Tv</string>
+    <string name="title_fm">Rajdhany F.M</string>
+    <string name="title_daily">Daily Rajdhany</string>
+</resources>
