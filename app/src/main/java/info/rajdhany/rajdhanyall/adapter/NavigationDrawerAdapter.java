@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.adapter;
+package info.rajdhany.rajdhanyall.adapter;
 
 /**
  * Created by Ravi on 29/07/15.
@@ -13,8 +13,8 @@ import android.widget.TextView;
 import java.util.Collections;
 import java.util.List;
 
-import info.androidhive.materialdesign.R;
-import info.androidhive.materialdesign.model.NavDrawerItem;
+import info.rajdhany.rajdhanyall.R;
+import info.rajdhany.rajdhanyall.model.NavDrawerItem;
 
 public class NavigationDrawerAdapter extends RecyclerView.Adapter<NavigationDrawerAdapter.MyViewHolder> {
     List<NavDrawerItem> data = Collections.emptyList();

@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign.activity;
+package info.rajdhany.rajdhanyall.activity;
 
 /**
  * Created by Ravi on 29/07/15.
@@ -21,9 +21,9 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import info.androidhive.materialdesign.R;
-import info.androidhive.materialdesign.adapter.NavigationDrawerAdapter;
-import info.androidhive.materialdesign.model.NavDrawerItem;
+import info.rajdhany.rajdhanyall.R;
+import info.rajdhany.rajdhanyall.adapter.NavigationDrawerAdapter;
+import info.rajdhany.rajdhanyall.model.NavDrawerItem;
 
 public class FragmentDrawer extends Fragment {
 

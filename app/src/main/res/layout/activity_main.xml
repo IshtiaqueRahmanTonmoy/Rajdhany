@@ -26,7 +26,14 @@
             android:id="@+id/container_body"
             android:layout_width="fill_parent"
             android:layout_height="0dp"
-            android:layout_weight="1" />
+            android:layout_weight="1"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:id="@+id/recyclerView"/>
+            />
 
 
     </LinearLayout>
@@ -34,7 +41,7 @@
 
     <fragment
         android:id="@+id/fragment_navigation_drawer"
-        android:name="info.androidhive.materialdesign.activity.FragmentDrawer"
+        android:name="info.rajdhany.rajdhanyall.activity.FragmentDrawer"
         android:layout_width="@dimen/nav_drawer_width"
         android:layout_height="match_parent"
         android:layout_gravity="start"

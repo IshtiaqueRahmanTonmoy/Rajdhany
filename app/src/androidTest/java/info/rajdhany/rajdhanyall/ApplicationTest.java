@@ -1,4 +1,4 @@
-package info.androidhive.materialdesign;
+package info.rajdhany.rajdhanyall;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
